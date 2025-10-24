@@ -20,6 +20,8 @@ h1 {
 p {
     line-height: 1.8;
     font-size: 1.1em;
+    color: #d2a02a;
+    padding: 2%;
 }
 
 ul {
@@ -34,7 +36,7 @@ li {
 }
 
 a {
-    color: #f4a460;
+    color: rgb(222, 163, 112);
     text-decoration: none;
     font-weight: bold;
 }
@@ -45,25 +47,34 @@ a:hover {
 }
 
 .wonder-image {
-    max-width: 60%;
-    height: auto;
+    width: 47%;
+    max-height: auto;
     display: block;
-    margin: 30px auto;
+    margin: 0 auto;
     border: 3px solid #daa520;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    float: right;
 }
 
 .wonder-description {
-    max-width: 900px;
+    max-width: 47%;
+    height: auto;
     margin: 0 auto;
     text-align: justify;
     background-color: rgba(255,255,255,0.9);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    float: left;
 }
 
+.wonder-home {
+    max-width: 900px;
+    margin: 20px auto;
+    text-align: justify;
+    color:#dbc691
+}
 nav {
     text-align: center;
     margin-bottom: 30px;
