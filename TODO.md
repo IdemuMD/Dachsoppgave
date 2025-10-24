@@ -1,13 +1,10 @@
-# Iteration 2: Concept - Add layouts, mockups, and implement pages
+# Iteration 3: Beta - Add colors, fonts, themes, test for feedback, production server
 
-- [ ] Update css/styles.css for uniform styling (fonts, colors, basic layout)
-- [ ] Add placeholder images to img/ folder (one for each wonder, e.g., 300x200 px)
-- [ ] Update great-pyramid-of-giza.html with layout (image, description)
-- [ ] Update hanging-gardens-of-babylon.html with layout (image, description)
-- [ ] Update temple-of-artemis-at-ephesus.html with layout (image, description)
-- [ ] Update statue-of-zeus-at-olympia.html with layout (image, description)
-- [ ] Update mausoleum-at-halicarnassus.html with layout (image, description)
-- [ ] Update colossus-of-rhodes.html with layout (image, description)
-- [ ] Update lighthouse-of-alexandria.html with layout (image, description)
-- [ ] Add navigation back to index.html on each page
-- [ ] Commit changes for Iteration 2
+- [ ] Update css/styles.css with intended colors and theme (e.g., ancient wonder theme with earthy tones)
+- [ ] Add custom fonts (e.g., Google Fonts for serif headings)
+- [ ] Ensure size ratios are in order (image sizes, text sizes, margins)
+- [ ] Introduce small bugs (e.g., typo in one description, missing alt text on one image)
+- [ ] Create GitHub repo and push code
+- [ ] Enable GitHub Pages for production server
+- [ ] Simulate testing feedback (note areas for improvement)
+- [ ] Commit changes for Iteration 3
